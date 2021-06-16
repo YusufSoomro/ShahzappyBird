@@ -76,31 +76,31 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1534}
+      Script: {instanceID: 1538}
     - Class: 114
-      Script: {instanceID: 2632}
+      Script: {instanceID: 2636}
     - Class: 114
-      Script: {instanceID: 2680}
+      Script: {instanceID: 2684}
     - Class: 114
-      Script: {instanceID: 2914}
+      Script: {instanceID: 2918}
     - Class: 114
-      Script: {instanceID: 3222}
+      Script: {instanceID: 3226}
     - Class: 114
-      Script: {instanceID: 3626}
+      Script: {instanceID: 3630}
     - Class: 114
-      Script: {instanceID: 3798}
+      Script: {instanceID: 3802}
     - Class: 114
-      Script: {instanceID: 5582}
+      Script: {instanceID: 5586}
     - Class: 114
-      Script: {instanceID: 5696}
+      Script: {instanceID: 5700}
     - Class: 114
-      Script: {instanceID: 5860}
+      Script: {instanceID: 5864}
     - Class: 114
-      Script: {instanceID: 6208}
+      Script: {instanceID: 6212}
     - Class: 114
-      Script: {instanceID: 6772}
+      Script: {instanceID: 6776}
     - Class: 114
-      Script: {instanceID: 22758}
+      Script: {instanceID: 22762}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1083,4 +1083,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/Game.unity
-  playerPath: C:/Users/yusuf/Video Game Projects/ShahzappyBird/LatestBuild.aab
+  playerPath: C:/Users/yusuf/VideoGameProjects/ShahzappyBird/LatestBuild.apk
